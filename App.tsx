@@ -28,7 +28,7 @@ const BackgroundPattern: React.FC = () => (
   <div className="fixed inset-0 z-0 opacity-[0.03] pointer-events-none overflow-hidden select-none" aria-hidden="true">
     <div className="absolute top-0 left-0 w-full h-full"
       style={{
-        backgroundImage: `url('/images/logo-pattern.png')`,
+        backgroundImage: `url('images/logo-pattern.png')`,
         backgroundSize: '120px',
         backgroundRepeat: 'repeat',
         opacity: 0.8
