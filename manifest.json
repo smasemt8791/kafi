@@ -3,13 +3,13 @@
   "name": "كافي - هل رأس مالك يكفي؟",
   "icons": [
     {
-      "src": "images/app-icon.jpg",
-      "type": "image/jpeg",
+      "src": "images/app-icon.png",
+      "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/app-icon.jpg",
-      "type": "image/jpeg",
+      "src": "images/app-icon.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ],
